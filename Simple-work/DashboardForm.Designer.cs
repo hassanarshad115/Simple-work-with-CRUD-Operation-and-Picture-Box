@@ -50,7 +50,7 @@
             // 
             // addbutton1
             // 
-            this.addbutton1.Location = new System.Drawing.Point(92, 13);
+            this.addbutton1.Location = new System.Drawing.Point(92, 15);
             this.addbutton1.Name = "addbutton1";
             this.addbutton1.Size = new System.Drawing.Size(75, 23);
             this.addbutton1.TabIndex = 1;
